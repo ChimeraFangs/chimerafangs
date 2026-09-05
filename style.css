@@ -2,6 +2,12 @@
    HTML content. To learn how to do something, just try searching Google for questions like
    "how to change link color." */
 
+.fredericka-the-great-regular {
+  font-family: "Fredericka the Great", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 <link href='https://fonts.googleapis.com/css?family=Fredericka the Great' rel='stylesheet'>
 body {
     font-family: 'Fredericka the Great';font-size: 22px;
