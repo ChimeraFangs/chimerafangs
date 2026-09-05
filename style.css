@@ -2,6 +2,11 @@
    HTML content. To learn how to do something, just try searching Google for questions like
    "how to change link color." */
 
+<link href='https://fonts.googleapis.com/css?family=Fredericka the Great' rel='stylesheet'>
+body {
+    font-family: 'Fredericka the Great';font-size: 22px;
+}
+
 body {
   color: black;
   font-family: "MedievalSharp", cursive;
